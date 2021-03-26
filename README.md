@@ -14,6 +14,8 @@
   every time we create a new JavaFX project to configure the javafx library. 
 
 ## Random Notes
+* **TODO** : dump the netbeans playground code in this project
+* 
 
 ## Referred Links:
 
